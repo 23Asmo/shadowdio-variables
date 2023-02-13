@@ -1,0 +1,110 @@
+game.StarterGui:SetCore( "ChatMakeSystemMessage",  { Text = "Bro the cheat is loading . Give it a minute..", Color = Color3.fromRGB( 255,0,0 ), Font = Enum.Font.Arial, FontSize = Enum.FontSize.Size24 } )
+wait(3)
+game.StarterGui:SetCore( "ChatMakeSystemMessage",  { Text = "Bro the cheat is loading . Give it a minute..", Color = Color3.fromRGB( 255,0,0 ), Font = Enum.Font.Arial, FontSize = Enum.FontSize.Size24 } )
+wait(3)
+game.Players.LocalPlayer:Kick("Executor does not support this scripts level obfuscation. Contact your script developer. (ERROR CODE X88V2)")
+local args = {
+    [1] = "I like men UwU",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "I might be the quiet guy… but inside im a monster 😈",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "Naruto Baka- 😛",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "xD they dont know the real me- Baka",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "I like men - Shadow Dio",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "Xd they dont want to see the real me- Naruto Guziki Qou Oi Oi Oi",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "Oi oi oii the king has returned to the Natuto City 😈",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "Oi oi oi mi na chuta kongi",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "Bts kpop is the gang 😈",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "I like to feel it tickle in the back",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "POGGERS!!!!! I am so kawaii",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "OwO Kawaiiiiii Oi ",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "Okay buddy. You have crossed the line. 🤓",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "Pogchamp throwing it back on my dad",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "Time doesn't heal pain, it teach us how to live with it. -Itachi UchihaTime doesn't heal pain, it teach us how to live with it. -Itachi Uchiha",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "POG DREAM!!!!!! :OOOO",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+wait(2)local args = {
+    [1] = "I like men UwU",
+    [2] = "All"
+}
+
+
